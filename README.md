@@ -276,9 +276,6 @@ This project is open source and available under the [MIT License](LICENSE).
 - **Facebook**: [facebook.com/qppd.dev](https://facebook.com/qppd.dev)
 - **Community**: [facebook.com/QUEZONPROVINCEDEVS](https://facebook.com/QUEZONPROVINCEDEVS)
 
-### Professional Focus
-Sajed specializes in creating intelligent, efficient solutions that bridge software and hardware. His work focuses on practical IoT applications, renewable energy integration, and educational technology projects that serve real-world needs in rural and agricultural communities.
-
 ---
 
-**Project Status**: Active Development | **Last Updated**: November 2025 | **Version**: 1.0
+**Project Status**: Finished | **Last Updated**: November 2025 | **Version**: 1.0
